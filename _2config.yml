@@ -20,16 +20,16 @@ description: "I am a graduate from Univ. of Illinois Urbana Champaign with B.S. 
 
 # Main author of the website
 # See > authors.yml
-author: Hongru Wang
+author: Hongru
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io/feeling-responsive'
+url: 'https://hrwang.xyz'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/FlyingWHR/FlyingWHR.github.io/edit/master
+improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -101,7 +101,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Hongru     # Default author for pages
+      author: phlow     # Default author for pages
   -
     scope:
       path: ""
@@ -110,7 +110,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Hongru     # Default author for posts
+      author: phlow     # Default author for posts
 
 
 
@@ -132,9 +132,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             "https://plus.google.com/u/0/103189967232153044778"
-google_site_verification:  ""
-bing_webmastertools_id:    ""
+google_author:             "https://plus.google.com/u/0/118311555303973066167"
+google_site_verification:  "Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ"
+bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
 # alexa_verify_id:         ""
 
 
@@ -184,8 +184,6 @@ og_description:                     "Feeling Responsive is built on the fabulous
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-
-
 #      _____
 #     / ___/____ ___________
 #     \__ \/ __ `/ ___/ ___/
@@ -207,7 +205,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: 
+google_analytics_tracking_id: UA-60112281-1
 
 
 

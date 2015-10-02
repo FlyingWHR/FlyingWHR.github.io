@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Feeling Responsive</title>
-		<description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
+		<title>Hongru Wang</title>
+		<description>I am a graduate from Univ. of Illinois Urbana Champaign with B.S. in Computer Engineering. I&#39;m currently trying to make the most out of my life </description>
 		<link>https://phlow.github.io/feeling-responsive/</link>
 		<atom:link href="https://phlow.github.io/feeling-responsive/feed.xml" rel="self" type="application/rss+xml" />
 		

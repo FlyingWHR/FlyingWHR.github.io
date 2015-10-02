@@ -16,7 +16,7 @@ slogan: "and his this and that"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "I am a graduate from Univ. of Illinois Urbana Champaign with B.S. in Computer Engineering. I'm currently trying to make the most out of my life "
+description: "I am a graduate from Univ. of Illinois Urbana Champaign with B.S. in Computer Engineering. I'm currently trying to make the most out of my life"
 
 # Main author of the website
 # See > authors.yml
@@ -24,7 +24,7 @@ author: Hongru Wang
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io/feeling-responsive'
+url: 'https://hrwang.xyz'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -185,6 +185,17 @@ og_description:                     "Feeling Responsive is built on the fabulous
 #
 
 
+#        ____  _
+#       / __ \(_)________ ___  _______
+#      / / / / / ___/ __ `/ / / / ___/
+#     / /_/ / (__  ) /_/ / /_/ (__  )
+#    /_____/_/____/\__, /\__,_/____/
+#                    /_/
+#
+# used in _includes/comments
+
+disqus_shortname: feelingresponsive
+
 
 #      _____
 #     / ___/____ ___________
@@ -207,7 +218,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: 
+google_analytics_tracking_id: UA-68364801-1
 
 
 

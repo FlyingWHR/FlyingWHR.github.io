@@ -25,11 +25,11 @@
     <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic|Volkhov' rel='stylesheet' type='text/css' />
   </noscript>
   
-  <meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ" />
-	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" />
-	<meta name="description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette." />
+  <meta name="google-site-verification" content="" />
+	<meta name="msvalidate.01" content="" />
+	<meta name="description" content="I am a graduate from Univ. of Illinois Urbana Champaign with B.S. in Computer Engineering. I&#39;m currently trying to make the most out of my life " />
 	
-	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167"/>
+	<link rel="author" href="https://plus.google.com/u/0/103189967232153044778"/>
 
 	
 
@@ -110,9 +110,9 @@
 	<meta property="og:locale" content="en_EN" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="RSS Feed (Styled)" />
-	<meta property="og:description" content="»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette." />
+	<meta property="og:description" content="I am a graduate from Univ. of Illinois Urbana Champaign with B.S. in Computer Engineering. I&#39;m currently trying to make the most out of my life " />
 	<meta property="og:url" content="https://phlow.github.io/feeling-responsive//assets/xslt/rss.xslt" />
-	<meta property="og:site_name" content="Feeling Responsive" />
+	<meta property="og:site_name" content="Hongru Wang" />
 	
 
 	
@@ -133,7 +133,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="https://phlow.github.io/feeling-responsive" class="icon-tree"> Feeling Responsive</a></h1>
+      <h1 class="show-for-small-only"><a href="https://phlow.github.io/feeling-responsive" class="icon-tree"> Hongru Wang</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -520,8 +520,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://phlow.github.io/feeling-responsive" title="Feeling Responsive – A Flexible Theme for Jekyll">
-				<img src="https://phlow.github.io/feeling-responsive/assets/img/logo.png" alt="Feeling Responsive – A Flexible Theme for Jekyll">
+			<a id="logo" href="https://phlow.github.io/feeling-responsive" title="Hongru Wang – and his this and that">
+				<img src="https://phlow.github.io/feeling-responsive/assets/img/logo.png" alt="Hongru Wang – and his this and that">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -598,7 +598,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              »Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.
+              I am a graduate from Univ. of Illinois Urbana Champaign with B.S. in Computer Engineering. I'm currently trying to make the most out of my life 
               <a href="https://phlow.github.io/feeling-responsive/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
@@ -653,7 +653,7 @@
           <div class="small-6 medium-3 large-3 columns">
             
               
-                <h5 class="shadow-black">Dankeschön</h5>
+                <h5 class="shadow-black">Credits</h5>
               
             
               
@@ -704,7 +704,7 @@
           <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
             <p>
               Created with &hearts;
-              by&nbsp;<a href="http://phlow.de/">Phlow</a>
+              by&nbsp;<a href=""></a>
               with&nbsp;<a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
               based&nbsp;on&nbsp;<a href="http://phlow.github.io/feeling-responsive/">Feeling&nbsp;Responsive</a>.
             </p>
@@ -713,21 +713,15 @@
           <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
             <ul class="inline-list">
             
-              <li><a href="http://www.youtube.com/PhlowMedia" target="_blank" class="icon-youtube" title="Videos, Video-Anleitungen und Filme von Phlow auf YouTube"></a></li>
+              <li><a href="" target="_blank" class="" title=""></a></li>
             
-              <li><a href="http://twitter.com/phlow" target="_blank" class="icon-twitter" title="Immer das Neuste von Phlow gibt es auf Twitter"></a></li>
+              <li><a href="https://github.com/FlyingWHR" target="_blank" class="icon-github" title="in case you are interested"></a></li>
             
-              <li><a href="http://www.facebook.com/phlow.media" target="_blank" class="icon-facebook" title="Lass uns Freunde sein!"></a></li>
+              <li><a href="https://twitter.com/flyingWH" target="_blank" class="icon-twitter" title="anything there?"></a></li>
             
-              <li><a href="http://soundcloud.com/phlow" target="_blank" class="icon-soundcloud" title="Sounds und Downloads und mehr"></a></li>
+              <li><a href="https://www.facebook.com/flyingWW/" target="_blank" class="icon-facebook" title="My Facebook!"></a></li>
             
-              <li><a href="http://github.com/phlow" target="_blank" class="icon-github" title="Code und mehr..."></a></li>
-            
-              <li><a href="http://instagram.com/phlowmedia" target="_blank" class="icon-instagram" title="Bilder und Impressionen mit und ohne Filter..."></a></li>
-            
-              <li><a href="http://www.pinterest.com/phlowmedia/" target="_blank" class="icon-pinterest" title="Bilder, Fotos, Illustrationen, Grafiken sammeln..."></a></li>
-            
-              <li><a href="http://www.mixcloud.com/phlow/" target="_blank" class="icon-cloud" title="Mixe, was sonst?"></a></li>
+              <li><a href="https://instagram.com/flyingwh/" target="_blank" class="icon-instagram" title="some photos here"></a></li>
             
             </ul>
           </section>
@@ -741,18 +735,6 @@
 
 
 
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-60112281-1', 'auto');
-  ga('set', 'anonymizeIp', true);
-  ga('send', 'pageview');
-
-</script>
 
 
 
