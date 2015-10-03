@@ -37,7 +37,7 @@ improve_content: https://github.com/FlyingWHR/FlyingWHR.github.io/edit/master
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://FlyingWHR.github.io/images/'
+urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
