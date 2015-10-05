@@ -12,7 +12,7 @@ title: "Hongru Wang"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "and his this and that"
+slogan: "I code, I play"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -37,7 +37,7 @@ improve_content: https://github.com/FlyingWHR/FlyingWHR.github.io/edit/master
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'http://FlyingWHR.github.io/images/'
 
 
 # Logo size is 600x80 pixels
@@ -207,7 +207,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: 
+google_analytics_tracking_id: UA-68364801-1
 
 
 
@@ -224,4 +224,4 @@ google_analytics_tracking_id:
 #
 # used in _includes/footer_scripts
 
-# tawkto_embed_uri:
+# tawkto_embed_uri: 

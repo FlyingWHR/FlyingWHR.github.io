@@ -3,10 +3,15 @@
   #class: icon-youtube
   #title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
+- name: Linkedin
+  url: https://www.linkedin.com/in/hongruwang
+  class: icon-linkedin
+  title: "profesional network"
+
 - name: GitHub
   url: https://github.com/FlyingWHR
   class: icon-github
-  title: "in case you are interested"
+  title: "my repository"
 
 - name: Twitter
   url: https://twitter.com/flyingWH
@@ -16,11 +21,5 @@
 - name: Facebook
   url: https://www.facebook.com/flyingWW/
   class: icon-facebook
-  title: "My Facebook!"
-
-- name: Instagram
-  url: https://instagram.com/flyingwh/
-  class: icon-instagram
-  title: "some photos here"
-
+  title: "Facebook!"
 

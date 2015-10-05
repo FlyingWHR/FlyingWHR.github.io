@@ -1,2 +1,5 @@
 Gemfile
 Gemfile.lock
+.yml~
+.html~
+.sass-cache

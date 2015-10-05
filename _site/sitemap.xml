@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 27 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 25 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/404.html</loc>
+	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/blog/archive/</loc>
+	<loc>http://localhost:4000/blog/archive/</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://FlyingWHR.github.io/atom.xml</loc>
-	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,9 +37,26 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/changelog/</loc>
+	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/changelog/</loc>
+	
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,24 +69,9 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/contact/</loc>
+	<loc>http://localhost:4000/contact/</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://FlyingWHR.github.io/design/</loc>
-	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,24 +84,9 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/documentation/</loc>
+	<loc>http://localhost:4000/design/</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://FlyingWHR.github.io/feed.xml</loc>
-	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -129,24 +99,9 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/getting-started/</loc>
+	<loc>http://localhost:4000/documentation/</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://FlyingWHR.github.io/headers/</loc>
-	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -159,24 +114,9 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/humans.txt</loc>
+	<loc>http://localhost:4000/feed.xml</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://FlyingWHR.github.io/blog/</loc>
-	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -189,24 +129,9 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/</loc>
+	<loc>http://localhost:4000/humans.txt</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://FlyingWHR.github.io/info/</loc>
-	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -219,24 +144,9 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/redirect-page/</loc>
+	<loc>http://localhost:4000/blog/</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://FlyingWHR.github.io/roadmap/</loc>
-	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -249,9 +159,69 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/robots.txt</loc>
+	<loc>http://localhost:4000/</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/info/</loc>
+	
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/redirect-page/</loc>
+	
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/roadmap/</loc>
+	
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/robots.txt</loc>
+	
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -268,41 +238,9 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/search/</loc>
+	<loc>http://localhost:4000/search/</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://FlyingWHR.github.io/sitemap.xml</loc>
-	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://FlyingWHR.github.io/blog/page2/</loc>
-	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -315,9 +253,26 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/blog/page3/</loc>
+	<loc>http://localhost:4000/sitemap.xml</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/page2/</loc>
+	
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -330,9 +285,24 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/blog/page4/</loc>
+	<loc>http://localhost:4000/blog/page3/</loc>
 	
-		<lastmod>2015-10-02T19:37:45-07:00</lastmod>
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/page4/</loc>
+	
+		<lastmod>2015-10-05T02:04:26-07:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -348,7 +318,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/typography/</loc>
+	<loc>http://localhost:4000/design/typography/</loc>
 	
 		<lastmod>2015-11-16T00:00:00-08:00</lastmod>
 	
@@ -363,7 +333,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/comments/</loc>
+	<loc>http://localhost:4000/design/comments/</loc>
 	
 		<lastmod>2015-11-15T00:00:00-08:00</lastmod>
 	
@@ -378,7 +348,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/no-header/</loc>
+	<loc>http://localhost:4000/design/no-header/</loc>
 	
 		<lastmod>2015-10-11T00:00:00-07:00</lastmod>
 	
@@ -393,7 +363,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/no-header-but-image/</loc>
+	<loc>http://localhost:4000/design/no-header-but-image/</loc>
 	
 		<lastmod>2015-03-12T00:00:00-07:00</lastmod>
 	
@@ -408,7 +378,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/header-with-text/</loc>
+	<loc>http://localhost:4000/design/header-with-text/</loc>
 	
 		<lastmod>2015-02-10T00:00:00-08:00</lastmod>
 	
@@ -423,7 +393,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/header-logo-only/</loc>
+	<loc>http://localhost:4000/design/header-logo-only/</loc>
 	
 		<lastmod>2014-10-09T00:00:00-07:00</lastmod>
 	
@@ -438,7 +408,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/header-image-color/</loc>
+	<loc>http://localhost:4000/design/header-image-color/</loc>
 	
 		<lastmod>2014-10-09T00:00:00-07:00</lastmod>
 	
@@ -453,7 +423,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/header-full-width-image/</loc>
+	<loc>http://localhost:4000/design/header-full-width-image/</loc>
 	
 		<lastmod>2014-10-09T00:00:00-07:00</lastmod>
 	
@@ -468,7 +438,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/header-image-pattern/</loc>
+	<loc>http://localhost:4000/design/header-image-pattern/</loc>
 	
 		<lastmod>2014-10-08T00:00:00-07:00</lastmod>
 	
@@ -483,7 +453,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/gallery/</loc>
+	<loc>http://localhost:4000/design/gallery/</loc>
 	
 		<lastmod>2014-09-15T00:00:00-07:00</lastmod>
 	
@@ -498,7 +468,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/video/</loc>
+	<loc>http://localhost:4000/design/video/</loc>
 	
 		<lastmod>2014-09-14T00:00:00-07:00</lastmod>
 	
@@ -513,7 +483,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/grid/</loc>
+	<loc>http://localhost:4000/design/grid/</loc>
 	
 		<lastmod>2014-09-13T00:00:00-07:00</lastmod>
 	
@@ -528,7 +498,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/portfolio/</loc>
+	<loc>http://localhost:4000/design/portfolio/</loc>
 	
 		<lastmod>2014-09-10T00:00:00-07:00</lastmod>
 	
@@ -543,7 +513,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/page-fullwidth/</loc>
+	<loc>http://localhost:4000/design/page-fullwidth/</loc>
 	
 		<lastmod>2014-08-19T00:00:00-07:00</lastmod>
 	
@@ -558,7 +528,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/post-right-sidebar/</loc>
+	<loc>http://localhost:4000/design/post-right-sidebar/</loc>
 	
 		<lastmod>2014-07-10T00:00:00-07:00</lastmod>
 	
@@ -573,7 +543,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/page/</loc>
+	<loc>http://localhost:4000/design/page/</loc>
 	
 		<lastmod>2014-07-10T00:00:00-07:00</lastmod>
 	
@@ -588,7 +558,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/breadcrumb/</loc>
+	<loc>http://localhost:4000/design/breadcrumb/</loc>
 	
 		<lastmod>2014-07-10T00:00:00-07:00</lastmod>
 	
@@ -603,7 +573,7 @@
 
 	
 	<url>
-	<loc>http://FlyingWHR.github.io/design/post-left-sidebar/</loc>
+	<loc>http://localhost:4000/design/post-left-sidebar/</loc>
 	
 		<lastmod>2014-07-09T00:00:00-07:00</lastmod>
 	
