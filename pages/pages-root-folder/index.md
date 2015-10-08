@@ -19,7 +19,7 @@ widget1:
 widget2:
   title: "My resume"
   url: 'http://hrwang.xyz/documentation/'
-  text: 'Yes, I&#39;m in job hunting. I hold a B.S. in Computer Engineering from Univ. of Illinois Urbana Champaign'
+  text: 'Yes, I&#39;m job hunting. I hold a B.S. in Computer Engineering from Univ. of Illinois Urbana Champaign'
   image: jobs-302x182.jpg
 
 widget3:
