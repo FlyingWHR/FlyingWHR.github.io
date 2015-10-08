@@ -9,8 +9,8 @@
 			<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>Atom Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css" />
-	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://FlyingWHR.github.io/assets/css/styles_feeling_responsive.css" />
+	<script src="http://FlyingWHR.github.io/assets/js/modernizr.min.js"></script>
 	
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -36,67 +36,67 @@
 
 
 	
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/favicon-32x32.png" />
+	<link rel="icon" sizes="32x32" href="http://FlyingWHR.github.io/assets/img/favicon-32x32.png" />
 
 
 
 
 	
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/touch-icon-192x192.png" />
+	<link rel="icon" sizes="192x192" href="http://FlyingWHR.github.io/assets/img/touch-icon-192x192.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180x180-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://FlyingWHR.github.io/assets/img/apple-touch-icon-180x180-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152x152-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://FlyingWHR.github.io/assets/img/apple-touch-icon-152x152-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144x144-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://FlyingWHR.github.io/assets/img/apple-touch-icon-144x144-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120x120-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://FlyingWHR.github.io/assets/img/apple-touch-icon-120x120-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114x114-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://FlyingWHR.github.io/assets/img/apple-touch-icon-114x114-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76x76-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://FlyingWHR.github.io/assets/img/apple-touch-icon-76x76-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72x72-precomposed.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://FlyingWHR.github.io/assets/img/apple-touch-icon-72x72-precomposed.png" />
 
 
 
 
 	
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon-precomposed.png" />	
+	<link rel="apple-touch-icon-precomposed" href="http://FlyingWHR.github.io/assets/img/apple-touch-icon-precomposed.png" />	
 
 
 
 
 	
-	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/msapplication_tileimage.png" />
+	<meta name="msapplication-TileImage" content="http://FlyingWHR.github.io/assets/img/msapplication_tileimage.png" />
 
 
 
@@ -111,7 +111,7 @@
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Atom Feed (Styled)" />
 	<meta property="og:description" content="I am a graduate from Univ. of Illinois Urbana Champaign with B.S. in Computer Engineering. I&#39;m currently trying to make the most out of my life " />
-	<meta property="og:url" content="http://localhost:4000//assets/xslt/atom.xslt" />
+	<meta property="og:url" content="http://FlyingWHR.github.io//assets/xslt/atom.xslt" />
 	<meta property="og:site_name" content="Hongru Wang" />
 	
 
@@ -120,7 +120,7 @@
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt" />
+	<link type="text/plain" rel="author" href="http://FlyingWHR.github.io/humans.txt" />
 
 	
 </head>
@@ -133,7 +133,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Hongru Wang</a></h1>
+      <h1 class="show-for-small-only"><a href="http://FlyingWHR.github.io" class="icon-tree"> Hongru Wang</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -192,7 +192,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="http://localhost:4000/search/">Search</a></li>
+              <li><a href="http://FlyingWHR.github.io/search/">Search</a></li>
 
             
             
@@ -208,7 +208,7 @@
             
             
               <li class="divider"></li>
-              <li><a href="http://localhost:4000/contact/">Contact</a></li>
+              <li><a href="http://FlyingWHR.github.io/contact/">Contact</a></li>
 
             
             
@@ -229,7 +229,7 @@
 
             
             
-              <li><a href="http://localhost:4000/">Home</a></li>
+              <li><a href="http://FlyingWHR.github.io/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -246,7 +246,7 @@
 
             
             
-              <li><a href="http://localhost:4000/info/">About Me</a></li>
+              <li><a href="http://FlyingWHR.github.io/info/">About Me</a></li>
               <li class="divider"></li>
 
             
@@ -265,7 +265,7 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/projects/">Projects</a>
+                <a href="http://FlyingWHR.github.io/projects/">Projects</a>
 
                   <ul class="dropdown">
                     
@@ -274,21 +274,21 @@
                         
                       
 
-                      <li><a href="http://localhost:4000/projects/c/">C++/C</a></li>
+                      <li><a href="http://FlyingWHR.github.io/projects/c/">C++/C</a></li>
                     
 
                       
                         
                       
 
-                      <li><a href="http://localhost:4000/projects/python/">Python</a></li>
+                      <li><a href="http://FlyingWHR.github.io/projects/python/">Python</a></li>
                     
 
                       
                         
                       
 
-                      <li><a href="http://localhost:4000/projects/assembly/">assembly</a></li>
+                      <li><a href="http://FlyingWHR.github.io/projects/assembly/">assembly</a></li>
                     
                   </ul>
                   
@@ -307,7 +307,7 @@
 
             
             
-              <li><a href="http://localhost:4000/documentation/">Resume</a></li>
+              <li><a href="http://FlyingWHR.github.io/documentation/">Resume</a></li>
               <li class="divider"></li>
 
             
@@ -326,7 +326,7 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/blog/">Blog</a>
+                <a href="http://FlyingWHR.github.io/blog/">Blog</a>
 
                   <ul class="dropdown">
                     
@@ -335,7 +335,7 @@
                         
                       
 
-                      <li><a href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
+                      <li><a href="http://FlyingWHR.github.io/blog/archive/">Blog Archive</a></li>
                     
                   </ul>
                   
@@ -371,8 +371,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000" title="Hongru Wang – my blog/showroom">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="Hongru Wang – my blog/showroom">
+			<a id="logo" href="http://FlyingWHR.github.io" title="Hongru Wang – my blog/showroom">
+				<img src="http://FlyingWHR.github.io/assets/img/logo.png" alt="Hongru Wang – my blog/showroom">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -450,7 +450,7 @@
 
             <p class="shadow-black">
               I am a graduate from Univ. of Illinois Urbana Champaign with B.S. in Computer Engineering. I'm currently trying to make the most out of my life 
-              <a href="http://localhost:4000/info/">More ›</a>
+              <a href="http://FlyingWHR.github.io/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -570,12 +570,24 @@
       </div><!-- /#subfooter -->
     </footer>
 
-		<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+		<script src="http://FlyingWHR.github.io/assets/js/javascript.min.js"></script>
 
 
 
 
 
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68364801-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
 
 
 
