@@ -1,0 +1,25 @@
+---
+layout: page
+title: "About"
+subheadline: "A little more about me?"
+permalink: "/info/"
+header:
+    image_fullwidth: "header_drop.jpg"
+---
+For years I&#39;ve been programming for coursework, I have finally decided to build this website to showcase some of my work and motivate me to do something extra.
+
+With a background in physics and eletrical engineering and interest in programming, I transfered to computer engineering to explore more. Some of my course work covered *Data Structures*, *system engineering(Unix architecture)*, *network communications(protocals and routing)*,*Big data(intro)*. 
+
+I&#39;m currently building an app on iOS using swift language which I&#39;m also learning, hopefully it can be shown here next week.
+
+## Huge thanks to...
+
+[Phlow][1] for his awesome [Jekyll][2] theme, this website is hosted through [GitHub Pages][3].
+
+#### Yours sincerelly, Hongru.
+
+
+ [1]: http://phlow.de/
+ [2]: http://jekyllrb.com/
+ [3]: https://pages.github.com/
+
